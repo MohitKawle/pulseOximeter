@@ -3,7 +3,7 @@
 Repository for arduino homemade pulse-oxymeter with MAX30102 sensor.
 
 Hardware
-The hardware consists in:
+The hardware consists of:
 
 Elegoo UNO R3
 LCD Display
